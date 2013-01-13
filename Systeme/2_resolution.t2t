@@ -1,0 +1,226 @@
+
++La Résolution d'une action+
+
+La résolution d'une action intervient quand la réussite des actes d'un personnage est incertaine. Si l'échec ou la réussite sont obligatoires, nul besoin de mécanique ! Quand un doute demeure par contre, l'utilisation du système de jeu s'impose alors. Le système décrit ci-dessous vaut pour tous les actes, qu'ils soient physiques, sociaux ou intellectuel.
+
+++En résumé++
+
+La résolution d'une action se déroule comme suit : 
+
+- Le joueur indique l'action qu'il veut effectuer.
+- Le MJ indique au joueur la caractéristique et la compétence appropriées.
+- Le MJ fixe un facteur de difficulté (action simple) ou effectue le jet pour le PNJ (opposition).
+- Le joueur lance l'intégralité des dés correspondants aux éléments choisis. Il choisit un résultat (en général le plus élevé) et l'annonce au MJ.
+- Le MJ annonce le résultat de l'action (réussite ou échec avec éventuellement des nuances).
+- Le joueur décrit l'action.
+
+
+++En détail++
+
++++Annonce de l'action+++
+
+Durant cette phase le joueur doit annoncer ce qu'il désire réaliser. L'important ici n'est pas de décrire avec précision le "comment" mais uniquement l'objectif de l'action. Le système de jeu va permet d'évaluer la réussite de l'objectif, le "comment" n'est qu'affaire de description et vient donc après le jet.
+
++++Choix des éléments utilisés+++
+
+Le maître du jeu doit ensuite fixer les éléments de la fiche de personnage qui vont être utilisés. En général le maître du jeu procède ainsi :
+
+- Il annonce la caractéristique utilisée en fonction de l'action entreprise. S'il hésite entre deux caractéristiques (cas assez rare), il prend alors la caractéristique la plus avantageuse pour le personnage.
+- Il annonce alors le domaine de compétence à utiliser (discrétion, natation, ...). Le joueur lui propose alors la compétence qu'il juge la plus appropriée. Le MJ est alors libre de l'accepter ou de la refuser. Si le joueur pense n'avoir aucune compétence, alors il fera le jet uniquement avec sa caractéristique ou ses équipements.
+- Si le joueur veut mettre en avant le coté négatif d'un trait, il l'indique alors au maître du jeu.
+
+
++++Définir la difficulté+++
+
+Le MJ doit définir un seuil de difficulté vis à vis de l'action entreprise par le personnage. Ce seuil de difficulté est "indépendant" du personnage qui l'entreprend. Les contraintes dues à l'environnement (difficulté de concentration, temps limité, ...) ne sont pas à prendre en compte dans la difficulté. Elles seront exprimées autrement (voir chapitre "Les Faiblesses").
+
+L'échelle de difficulté (indicative) que nous conseillons est la suivante :
+
+- Action enfantine : 1
+- Action facile : 3
+- Action malaisée : 5
+- Action difficile : 8
+- Action héroïque : 11
+- Action quasi impossible : 13 ou plus.
+
+
+
++++Réussite et échec des actions+++
+
+Tout n'est pas binaire dans la vie. Il y a des nuances dans la réussite ou l'échec d'une action entreprise par quelqu'un. Il en est de même dans la réussite des actions tentées par les personnages. 
+
+- Réussite Totale : L'action qu'entreprend le personnage est réussie, sans aucun souci.
+- Réussite Partielle : L'action qu'entreprend le personnage est au choix réussie, mais avec des soucis, ou n'est pas réussie mais le personnage se rapproche de son objectif.
+- Réussite de justesse : L'action qu'entreprend le personnage est réussie, mais avec de graves soucis.
+- Échec Partiel : L'action qu'entreprend le personnage est au choix ratée, mais le personnage ne s'éloigne pas de l'objectif, ou alors elle réussit mais le personnage n'en tirera pas d'avantage pour se rapprocher de son objectif.
+- Échec Total : L'action qu'entreprend le personnage est ratée, de plus il s'éloigne de son objectif ou s'attire des ennuis.
+
+
+On considère la réussite ou l'échec en fonction de la différence entre la difficulté et le résultat du jet sur cette échelle :
+
+- Le résultat est de plus de 3 points supérieur à la difficulté : c'est une réussite totale.
+- Le résultat est entre 1 et 3 points supérieur à la difficulté : c'est une réussite partielle.
+- Le résultat est égal à la difficulté : c'est une réussite de justesse.
+- Le résultat est entre 1 et 3 points inférieur à la difficulté : c'est un échec partiel.
+- Le résultat est de plus de 3 points inférieur à la difficulté : c'est un échec total.
+
+
+Ces seuils sont indicatifs. Avec l'expérience, vous apprendrez à faire peser chaque point, chaque marge différente, dans la balance pour évaluer le résultat d'une action.
+
++++Description du résultat+++
+
+Une fois que le MJ a déterminé la réussite ou l'échec de l'action, c'est au joueur de décrire l'action en détails et son résultat. Le joueur est libre de la décrire et de l'interpréter comme il l'entend. Le MJ peut, toutefois, décider à tout moment de mettre son veto sur un élément particulier, ou de compléter la description.
+
+La description doit bien sûr être en accord avec les résultats obtenus. Si ce n'est pas le cas, il est évident que le MJ doit la reprendre intégralement.
+
+B-Exemple(Passer au dessus de barbelés)
+    Bob souhaite passer au dessus d'une grille en haut de laquelle se trouve des fils barbelés, pour entrer dans une maison bien gardée, en plus (et oui, c'est pas sport de découper la grille).
+    
+    Bref, cette action est incontestablement physique (où Bob a d8). Bob est un mec qui "Grimpe tout ce qui peut se grimper" où il a d10 (Bob aime donner des noms rigolos à ses compétences). La grille fait 2m de haut, avec de l'espace entre les croisillons, l'escalade est facile, c'est de passer les barbelés sans encombre, la difficulté.
+    
+    Le MJ l'estime donc à 5. Bob lance alors un d8 et un d10. Le d8 donne 7 et le d10 6. Bob choisit donc le plus élevé des dés, donc le résultat de son jet est de 7.
+    
+    Enfin, on compare le résultat de Bob à la difficulté fixée par le MJ. Il y a une différence de 2, c'est donc une réussite partielle.
+E-Exemple
+
+B-Exemple(Le passage au dessus de barbelés)
+    La tentative de Bob est donc une réussite partielle, explique le MJ au joueur. C'est à dire donc que soit l'action est réussie, mais il y a un souci, ou alors elle n'est pas réussie mais quelque chose se passe. Le joueur choisit donc de lui-même (avec l'accord du MJ) ce qui viendra qualifier sa réussite de partielle (par opposition à totale) et non le MJ (de manière unilatérale).
+    
+    Bob explique donc que son pantalon s'accroche aux barbelés du côté extérieur, ce qui le fait basculer la tête en bas. Il ajoute que ses mollets frottent les barbelés, ce qui lui occasionne des tas de petites entailles qui piquent. Il termine en expliquant qu'il perd donc un peu de temps  à se sortir de cette situation.
+    
+    Il aurait pu choisir de passer sans souci ni blessure, mais en se réceptionnant bruyamment, ce qui n'aurait pas manqué d'alerter les vigiles proches.
+    
+    Ou encore, il aurait pu expliquer qu'il retombait de l'autre côté de la grille, les barbelés accroché au pantalon. Il aurait alors eu la possibilité de l'enlever sur une petite zone en prenant ses précautions pour ne pas se blesser. Il pourra retenter, mais les barbelés ne seront plus là au moment délicat de passer au dessus de la grille.
+E-Exemple
+
+++Porter assistance++
+
+
+Parfois, plusieurs personnages travaillent ensemble à la résolution d'un objectif commun. Dans ce cas, un des personnages va réellement exécuter l'action finale, on le nomme alors le "Meneur". Les autres personnages viennent alors juste apporter leur aide à ce meneur, avec leurs compétences propres.
+
+
+Quand un tel cas de figure se présente, seul le meneur va effectuer le jet permettant de savoir si l'action est réussie ou au contraire échouée. L'aide des autres joueurs va permettre d'apporter des bonus augmentant les chances de succès. Ce bonus se présente sous la forme d'un (ou plusieurs) dé(s) supplémentaire(s) correspondant(s) au(x) dé(s) de compétence de la (ou des) personne(s) assistant le meneur.
+
+Pour évaluer la réussite de l'action, le meneur va lancer :
+- son dé de caractéristique
+- son dé de compétence
+- le dé de compétence des personnages qui l'assistent
+
+
+Tous les personnages peuvent décider d'utiliser des traits ou du stress sur cette action. Le reste de la résolution se passe de façon standard.
+
+++Les traits++
+
+Les traits d'un personnage peuvent intervenir en jeu pour toutes actions en rapport. Par exemple, un trait "Mercenaire de sa majesté" pourra intervenir sur les actions militaires, mais aussi sur les actions en rapport avec le statut du personnage.
+
+Il existe deux types d'utilisation :
+- Comme avantage : il est utilisé pour aider le personnage à accomplir son action.
+- Comme désavantage :il est utilisé pour mettre en difficulté le personnage, soit en le pénalisant dans une action, soit en amenant le personnage à se placer dans une situation difficile.
+
+
++++Comme avantage+++
+
+Un trait peut être utilisé lorsqu'il correspond à l'action entreprise. L'utilisation ou non d'un trait peut être discutée entre les joueurs et le MJ.
+
+Les traits peuvent être ceux du personnage qui peuvent l'aider dans l'action qu'il tente, mais également des éléments Descriptifs de l'environnement (des débris pour se cacher, un tuyau par terre comme arme improvisée, un lustre pour échapper au bretteur ennemi, etc...) !
+
+B-Exemple(Exemples d'utilisation de trait)
+- Le trait Forte-Tête peut être utilisé pour résister à une tentative de Persuasion. Par contre, il ne peut pas être utilisé pour gagner une course de vitesse (sauf si le joueur trouve vraiment une explication béton, dans ce cas, acceptez-la car il faut favoriser l'inventivité des joueurs).
+- Le trait Agilité Féline peut être utilisé pour tenter une acrobatie périlleuse, pas pour effectuer un travail mental !
+
+
+E-Exemple
+
+
+Un trait utilisé permet de :
+- Relancer tout ou partie d'un jet de dés
+- Obtenir un bonus de +2 sur le résultat total
+
+
+Une fois utilisé, le joueur doit effectuer une coche à coté du trait. Cette marque permet d'indiquer que le trait a déjà été utilisé. Il ne pourra plus l'être par la suite sauf si le joueur obtient une décoche (cf Regain de trait) ou si il dépense un point de Stress.
+
+Dans certains univers à l'ambiance plus héroïque, le maître du jeu pourra autoriser le joueur à cocher 2 fois chaque trait avant de le rendre inutilisable.
+
+
++++Comme désavantage+++
+
+Un trait peut également être utilisé pour pénaliser le personnage : 
+- soit en amenant le personnage à se mettre en difficulté : foncer sans réfléchir sur le grand méchant à cause de sa haine pour lui, plonger dans un piège à cause de son insouciance, ou tout simplement attirer les suspicions à cause de ses origines.
+- soit en pénalisant le personnage lors d'une action : sa peur du vide qui lui rend difficile la traversée d'un pont qui passe au dessus de la vallée, sa fascination pour les femmes qui l'empêche de repérer le mensonge dans la bouche d'une jolie dame, ... Dans ce cas, le joueur réduit tous les dés lancer d'un échelon (D6 devient D4, D10 devient D8, et D4 disparaît).
+
+
+Si la mise en avant du trait comme désavantage à un intérêt scénaristique, le MJ vous gratifiera d'une décoche (possibilité de décocher un trait déjà coché). 
+
+
++++Décocher un trait+++
+
+Il existe trois façon d'obtenir des décoches permettant de réutiliser à nouveau un trait qui avait été coché :
+
+- Utiliser un désavantage (comme expliqué au chapitre précédent).
+- Effectuer une interprétation exceptionnelle de votre personnage. Quand vous jouez votre rôle avec soin et que vous participez à établir une bonne ambiance autour de la table, le maître du jeu est incité à vous récompenser par une décoche immédiatement. Ce gain devra toutefois rester exceptionnel et gratifier un réel effort de la part du joueur.
+- Lors des scènes de repos (longue nuit de repos, repas tranquille dans l'auberge du coin, ...), le maître du jeu offrira une décoche pour les joueurs ayant contribué à faire avancer le scénario dans les scènes précédentes. Si vous avez bien interprété votre personnage, que vous avez effectuez quelques actions utiles ou soumis de bonnes idées, vous serez donc récompensé.
+
+
+
+++Le Stress++
+
+Les points de Stress sont une réserve de points directement à disposition des joueurs. Tous les joueurs peuvent, quand ils le désirent, utiliser des points de Stress. Une fois les points de Stress utilisés, ils sont mis à disposition du MJ. Le MJ pourra alors les utiliser pour ses PNJ et les remettra ensuite dans la réserve générale.
+
+En général, le nombre de points de stress disponible est égal à deux fois le nombre de joueurs présents. Le maître du jeu pourra bien sûr faire varier cette réserve selon l'ambiance qu'il désire obtenir.
+
+
+Les points de Stress ont différentes utilisations :
+
+- Utiliser un trait déjà coché
+- Faire abstraction des ses blessures
+- Influencer la narration
+- Utiliser une compétence complémentaire
+
+
++++Utiliser un trait déjà coché+++
+
+Un joueur peut avoir envie d'utiliser un trait qu'il a malheureusement déjà coché. Les points de Stress lui permettent de se dépasser en utilisant le trait malgré la coche.
+
+L'utilisation du trait se passe comme une utilisation standard.
+
+Attention toutefois, un trait ne peut être utilisé qu'une seule et unique fois sur une même action : impossible de dépenser plusieurs point de stress sur le même trait, ou de dépenser un point pour utiliser un trait qui vient tout juste d'être coché.
+
++++Influencer la narration+++
+
+Cette option doit être validée par le maître du jeu avant utilisation. Nous incitons toutefois les maîtres du jeu à l'autoriser car elle donne aux joueurs un peu plus de pouvoir et permet parfois des rebondissements originaux. Bien sûr, à chaque utilisation, le MJ est libre de donner son veto.
+
+Influencer la narration permet aux joueurs de dépenser des points de Stress pour compléter la description du MJ. Il ne s'agit pas de venir contredire ce que le MJ a déjà dit, mais bien de préciser des choses qu'il n'a pas encore dites. L'influence doit être quelque chose de subtil et discrète : une modification trop flagrante est à refuser.
+
+Un nouvel élément Descriptif de scène peut être créé suite à la description du joueur. Dans ce cas, la première utilisation que le joueur fera de ce nouveau Descriptif de scène est considérée comme gratuite.
+
+B-Exemple(Exemple d'influence sur la narration)
+- Le MJ décrit que le joueur, passant de ruelle en ruelle, tombe soudain sur un cul de sac. Le joueur peut alors dépenser 1 point pour indiquer qu'une échelle est posée le long du mur, et que, grâce à elle, il peut se sortir de cette impasse !
+- Coincé dans une cave, le joueur explique au MJ qu'il compte tenter d'ouvrir la porte avec une pièce de métal trouvée dans un recoin sombre de la pièce.
+
+
+E-Exemple
+
++++Faire abstraction des ses blessures+++
+
+Cette option permet au joueur de ne pas être pénalisé par ses blessures pour une action donnée. En dépensant un point de stress, le joueur peut effectuer son jet sans pénalité. L'annulation ne vaut que pour l'action en cours : la faiblesse pénalisera à nouveau le joueur dès la prochaine action.
+
++++Compétence complémentaire+++
+
+Parfois, un personnage possède une compétence qui peut l'aider à accomplir une action, sans toutefois être la compétence principale. On appelle cette compétence une compétence complémentaire. 
+
+Si le joueur veut faire intervenir cette compétence complémentaire dans un jet de dé, il peut le faire en dépensant un point de stress. Il ajoute alors le dé de la compétence en plus de ces dés classiques, comme il l'aurait fait dans le cas de "Porter une assistance".
+
+B-Exemple(Porter assistance et compétence complémentaire)
+    John est un "commandant" (d6) qui est "habitué à travailler avec de l'infanterie" (d10). Il mène un assaut face à un ennemi.
+
+    Un vaisseau mené par Bob survole la zone et la scanne. Bob utilise donc ses compétences en "senseurs" (d8) pour isoler les informations intéressantes et les envoyer à John.
+
+    De son côté, John, fier de sa "grande expérience dans les tactiques d'infanterie" (d10), essaye de donner les ordres les plus pertinents.
+
+    La compétence principale de cette action correspond à la compétence de commandement de John (d6). John décide de s'aider avec les données transmises par Bob. L'action de Bob est donc considérée comme une assistance. Il décide également de profiter de son expérience en infanterie et dépense un point de stress. Il va donc lancer sa caractéristique de Social (d4), sa compétence de Commandement (d6), sa compétence d'infanterie (d10) et la compétence de senseur de Bob (d8). Par contre, il aura déjà dépensé un point de Stress.
+
+E-Exemple
+
+
+
+

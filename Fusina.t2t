@@ -1,0 +1,15 @@
+Fusina - Fun, Simple, Narratif
+Lionel "Armaklan" Zuber et Sébastien "Segle" Gelé
+
+%!encoding: UTF-8
+%!includeconf: conf/latex.t2t
+
+%!include: Systeme/0_started.t2t
+%!include: Systeme/1_personnage.t2t
+%!include: Systeme/2_resolution.t2t
+%!include: Systeme/3_conflit.t2t
+%!include: Systeme/4_progression.t2t
+%!include: Systeme/5_occulte.t2t
+%!include: Systeme/6_vehicule.t2t
+%!include: Systeme/7_conseil.t2t
+%!include: Systeme/8_adaptation.t2t

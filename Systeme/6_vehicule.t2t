@@ -1,0 +1,67 @@
+
++Règles avancées - Véhicules+
+
+Les Véhicules vont être classés en deux catégories : 
+
+- Les véhicules standard
+- Les véhicules importants
+
+
+
+Chacune des catégories répond à des règles spécifiques.
+
+++Véhicules standard++
+
+Ils n'ont pas d'identité propre et ne sont pas destinés à avoir un fort impact dans le jeu. Ce sont tous les moyens de transport qui servent pour une unique scène. Dans des univers non-technologiques ils dépendent tous de cette catégorie.
+
+Dans Fusina, ils sont gérés comme des équipements et apportent donc un dé supplémentaire à lancer.
+
+++Véhicules importants++
+
+Ils sont uniques et réellement liés au groupe ou à l'univers. Ils font des apparitions fréquentes dans les scénarios du groupe. Ce peut-être par exemple le vaisseau spatial du groupe ou un mécha customisé par un personnage.
+
+Ils sont représentés par trois caractéristiques : 
+
+- Motorisation : utilisation du véhicule "à fond les manettes".
+- Systèmes : détection, communication, armements à distance, ...
+- Maniabilité : capacité de mouvement et de changement de direction, mais aussi la capacité à combattre au corps à corps.
+
+
+Ils vont également être dotés d'un certain nombre de traits et de faiblesses.
+
+Lors d'une action engageant un véhicule, nous allons donc utiliser : la Caractéristique et la Compétence de l'utilisateur + la Caractéristique du véhicule. En plus de ses propres traits, le joueur peut activer les traits de l'engin.
+
+Un véhicule est également doté de deux scores d'armure :
+
+- Coque : protège les dispositifs dans le but d'éviter les dommages importants.
+- Protection : protège les passagers. Ce score est inutile quand ceux-ci sont entièrement couverts par le véhicule comme par exemple dans un vaisseau spatial.
+
+
+Ces deux scores utilisent la règle de protection standard et représentent le nombre de niveaux de blessure que l'engin est capable d'encaisser chaque scène.
+
++++Créer un véhicule+++
+
+Les véhicules possèdent un nombre de traits variable qui dépend de la puissance désirée :
+
+- Véhicule faiblard : 2 traits de base.
+- Véhicule standard : 4 traits de base.
+- Véhicule puissant ou high-tech : 6 traits de base.
+
+
+Comme pour les personnages, il est possible de choisir une faiblesse pour prendre un trait supplémentaire. 
+
+Les traits sont ensuite reliés aux différentes caractéristiques ce qui permet de déterminer leur score.
+
+Il n'y a pas de règle concernant l'attribution de la coque et de la protection. Ces deux scores doivent être attribués en fonction de la taille et du type de véhicule.
+
++++Améliorer/Personnaliser le véhicule+++
+
+Il est possible de modifier l'engin pour le rendre plus performant, plus résistant, ... 
+
+Pour le faire, les joueurs devront sacrifier des points d'expérience. Ils peuvent sacrifier uniquement les points de la phase 1 (celle où eux mettent un point d'expérience où ils le souhaitent). Les coûts en expérience sont les suivants :
+
+- Nouveau trait : 5 points
+- Lier un trait à une caractéristique : 5 points
+- Coque ou protection supplémentaire : 3 points
+
+
